@@ -122,7 +122,7 @@ int main()
     	printf("Login de administrador!\n\nDigite a sua senha: ");
     	scanf("%s",senhadigitada);
     	
-    	if(senhadigitada[10] = "admin");
+    	if(senhadigitada[10] == "admin");
     	{
 		
 		
